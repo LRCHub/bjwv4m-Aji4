@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "証",
+  "base_artist": "flumpool",
+  "createdAt": "2026-03-31T14:19:42.820439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "証",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/01_証_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "証 (A Spring Breath ver.)",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/02_証_(A_Spring_Breath_ver.)_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "証",
+      "artist": "ステレオポニー",
+      "has_synced": true,
+      "path": "select/03_証_ステレオポニー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "証",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/04_証_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "証",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/05_証_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "証",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/06_証_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "証 ～flumpool x Choir～ 合唱ve",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/07_証_~flumpool_x_Choir~_合唱ve_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "証 (Ryu-Take 2023 ver.)",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/08_証_(Ryu-Take_2023_ver.)_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "証",
+      "artist": "Annabel",
+      "has_synced": false,
+      "path": "select/09_証_Annabel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "証 (backing track)",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/10_証_(backing_track)_ZONE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "証×炎 -SHOEN-",
+      "artist": "喜多村英梨",
+      "has_synced": false,
+      "path": "select/11_証×炎_-SHOEN-_喜多村英梨.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "証",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_01_証_flumpool.txt"
+    }
+  ]
+}
